@@ -1,0 +1,4 @@
+PyGithub 1.47
+pandas 0.23.4
+numpy 1.17.2
+scikit-learn 0.19.2
