@@ -3,7 +3,7 @@ import github
 from authinfo import *
 import re
 
-def get_issues():
+def get_issues(repo_name):
     #log in
     g = github.Github(API_token)
     #get repo
